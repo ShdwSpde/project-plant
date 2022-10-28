@@ -17,4 +17,7 @@ V. This all we be hosted on AWS using S3 buckets and route53. More notes on back
 
 --- still needs work on the brandkit 
 
+<img width="1062" alt="Project Plant Figma Wireframe" src="https://user-images.githubusercontent.com/93407223/198619725-552b4cbb-bd08-4185-924e-c7a31c56659a.png">
+
+
 [Project Plant Wireframe_Brandkit.pdf](https://github.com/ShdwSpde/project-plant/files/9888671/Project.Plant.Wireframe_Brandkit.pdf)
