@@ -1,6 +1,8 @@
 # project-plant
 
 Full-stack web page (100 hours project)
+
+
 ![Screen Shot 2022-01-10 at 8 22 57 PM](https://user-images.githubusercontent.com/93407223/198620684-df8741c8-349e-4eef-89b9-eb12908980c7.jpg)
 
 The idea with this project is to combine my skills obtained through the 100Devs online bootcamp, AWS ReStart, and my own personal studies in software engineering with the decade of knowledge I've obtained in my career as a green roof installer and rooftop farmer.
